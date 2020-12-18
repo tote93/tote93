@@ -1,19 +1,63 @@
 ### Hi there 👋
 
-<!--
-**tote93/tote93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What i use in my day to day :rocket:
 
-Here are some ideas to get you started:
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>React</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>Redux</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>Node JS</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <br/><br/>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>Angular</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+         <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+        <span>Git</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <br/><br/>
+      </td>
+        <td width="25%" align="center" style="padding-bottom:3rem">
+            <span><b>Firebase</b></span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+        <br/><br/>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center" style="padding-bottom:3rem">
+          <span><b>MERN</b></span><br/><br/><br/>
+         <img height="64px" src="https://cdn.svgporn.com/logos/mern.svg">
+         <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+        <span>MacOs</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/macOS.svg">
+        <br/><br/>
+      </td>
+      <td width="25%" align="center" style="padding-bottom:3rem">
+        <span>Visual Studio Code</span><br/><br/><br/>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <br/><br/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Git Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tote93&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tote93&langs_count=8&hide=jupyter%20notebook,Java)](https://github.com/tote93/github-readme-stats)
