@@ -41,7 +41,7 @@
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>MERN</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/mern.svg">
+         <img height="64px" src="https://www.komarcalabs.com/images/mern.png">
          <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
